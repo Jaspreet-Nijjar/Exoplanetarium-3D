@@ -8,6 +8,7 @@ function Slide2() {
       <button className="walkthrough-button shift">Shift</button>
       <h2>Welcome to Exoplanetarium!</h2>
       <p>Left Click + Drag to Orbit</p>
+      {/*Test*/}
     </section>
   );
 }
